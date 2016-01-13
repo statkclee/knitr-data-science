@@ -3,7 +3,12 @@ title: "정치철학"
 author: "Software 카펜트리"
 date: "2016년 1월 14일"
 output: html_document
+layout: page
 ---
+
+```{r, include = FALSE}
+source("tools/chunk-options.R")
+```
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
